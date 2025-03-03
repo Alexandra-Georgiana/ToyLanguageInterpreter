@@ -18,5 +18,3 @@ ToyLanguage/</br>
 ├── pom.xml</br>
 
 ## GUI
-![Img1](RMImg/Screenshot 2025-03-03 020953.png)</br>
-![Img2](RMImg/Screenshot 2025-03-03 020917.png)</br>
